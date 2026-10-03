@@ -1,4 +1,2 @@
-# Magnet Mapper
+# ARCHIVED
 
-
-Magnet Mapper for a JugendForscht project
